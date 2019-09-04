@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{AC51C735-F31C-427B-A7DB-062084C9E04B}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="Script1" Unit="Unit1" />
+			</Operation>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="Script2" Unit="Unit2" />
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{39768CAB-C9C0-44B7-AD65-7C07AEA7F161}" />
+	<Parameters Key="{3C214800-3704-4BDA-BC13-6EFCEF386407}" />
+</Root>
